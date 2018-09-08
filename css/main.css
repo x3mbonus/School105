@@ -119,14 +119,22 @@ main{
     padding-left: 20px;
     padding-right: 20px;
     font-size: 12px;
+    padding-top: 13px;
 }
 
 .content h2{
     border-bottom: 1px solid #D7CCC8;
     padding-bottom: 3px;
-    color: #3E2723;  
+    color: #3E2723;
 }
 
+h2 {	
+	font-size: 20px;
+}
+
+h3{
+	font-size: 16px;
+}
 
 footer {
     border-top: 3px solid #D7CCC8;
